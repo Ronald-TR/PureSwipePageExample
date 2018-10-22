@@ -1,2 +1,2 @@
 # PureSwipePageExample
-codepen: https://codepen.io/ronaldrodrigues/pen/YJjZMB
+codepen: https://codepen.io/ronaldrodrigues/pen/KGBmav
